@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanTechy
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ...  wordpress development
+- 🌱 I’m currently learning ...  REACT 
 - 💞️ I’m looking to collaborate on ... anything web dev
 - 📫 How to reach me ...
 
